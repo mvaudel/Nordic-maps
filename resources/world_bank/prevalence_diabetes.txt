@@ -1,0 +1,268 @@
+# Data Source	World Development Indicators
+# Last Updated Date	30.01.2019
+# 
+Name	Code	PrevalenceDiabetes_2017
+Aruba	ABW	11.62
+Afghanistan	AFG	9.59
+Angola	AGO	3.94
+Albania	ALB	10.08
+Andorra	AND	7.97
+Arab World	ARB	12.07702042
+United Arab Emirates	ARE	17.26
+Argentina	ARG	5.5
+Armenia	ARM	7.11
+American Samoa	ASM	
+Antigua and Barbuda	ATG	13.17
+Australia	AUS	5.07
+Austria	AUT	6.35
+Azerbaijan	AZE	7.11
+Burundi	BDI	6.05
+Belgium	BEL	4.29
+Benin	BEN	0.99
+Burkina Faso	BFA	2.42
+Bangladesh	BGD	8.38
+Bulgaria	BGR	5.81
+Bahrain	BHR	16.52
+Bahamas, The	BHS	13.17
+Bosnia and Herzegovina	BIH	10.08
+Belarus	BLR	5.18
+Belize	BLZ	17.11
+Bermuda	BMU	13
+Bolivia	BOL	6.89
+Brazil	BRA	8.11
+Barbados	BRB	13.57
+Brunei Darussalam	BRN	12.79
+Bhutan	BTN	9.75
+Botswana	BWA	4.81
+Central African Republic	CAF	6.1
+Canada	CAN	7.37
+Central Europe and the Baltics	CEB	6.863498635
+Switzerland	CHE	5.59
+Channel Islands	CHI	4.28
+Chile	CHL	8.46
+China	CHN	9.74
+Cote d'Ivoire	CIV	2.42
+Cameroon	CMR	7.2
+Congo, Dem. Rep.	COD	6.1
+Congo, Rep.	COG	7.2
+Colombia	COL	7.44
+Comoros	COM	11.88
+Cabo Verde	CPV	2.42
+Costa Rica	CRI	8.78
+Caribbean small states	CSS	11.85982335
+Cuba	CUB	8.27
+Curacao	CUW	11.62
+Cayman Islands	CYM	13.22
+Cyprus	CYP	9.24
+Czech Republic	CZE	6.82
+Germany	DEU	8.31
+Djibouti	DJI	6.05
+Dominica	DMA	11.62
+Denmark	DNK	6.41
+Dominican Republic	DOM	8.2
+Algeria	DZA	6.73
+East Asia & Pacific (excluding high income)	EAP	8.841313415
+Early-demographic dividend	EAR	9.326120712
+East Asia & Pacific	EAS	8.572328097
+Europe & Central Asia (excluding high income)	ECA	7.904926122
+Europe & Central Asia	ECS	6.800253144
+Ecuador	ECU	5.55
+Egypt, Arab Rep.	EGY	17.31
+Euro area	EMU	6.237540214
+Eritrea	ERI	6.05
+Spain	ESP	7.17
+Estonia	EST	4.02
+Ethiopia	ETH	7.47
+European Union	EUU	6.102228485
+Fragile and conflict affected situations	FCS	7.075992896
+Finland	FIN	5.76
+Fiji	FJI	14.49
+France	FRA	4.77
+Faroe Islands	FRO	
+Micronesia, Fed. Sts.	FSM	12.02
+Gabon	GAB	7.2
+United Kingdom	GBR	4.28
+Georgia	GEO	7.11
+Ghana	GHA	4.97
+Gibraltar	GIB	
+Guinea	GIN	2.42
+Gambia, The	GMB	1.91
+Guinea-Bissau	GNB	2.42
+Equatorial Guinea	GNQ	7.78
+Greece	GRC	4.55
+Grenada	GRD	10.71
+Greenland	GRL	2.16
+Guatemala	GTM	10.18
+Guam	GUM	21.52
+Guyana	GUY	11.62
+High income	HIC	7.854356362
+Hong Kong SAR, China	HKG	8.33
+Honduras	HND	7.21
+Heavily indebted poor countries (HIPC)	HPC	5.870315343
+Croatia	HRV	5.59
+Haiti	HTI	6.65
+Hungary	HUN	7.55
+IBRD only	IBD	9.318548014
+IDA & IBRD total	IBT	8.633699588
+IDA total	IDA	6.110119048
+IDA blend	IDB	5.704259902
+Indonesia	IDN	6.32
+IDA only	IDX	6.312817889
+Isle of Man	IMN	
+India	IND	10.39
+Not classified	INX	
+Ireland	IRL	3.28
+Iran, Islamic Rep.	IRN	9.59
+Iraq	IRQ	8.83
+Iceland	ISL	5.31
+Israel	ISR	6.74
+Italy	ITA	4.78
+Jamaica	JAM	11.28
+Jordan	JOR	11.75
+Japan	JPN	5.72
+Kazakhstan	KAZ	7.11
+Kenya	KEN	2.92
+Kyrgyz Republic	KGZ	7.11
+Cambodia	KHM	4
+Kiribati	KIR	22.66
+St. Kitts and Nevis	KNA	12.84
+Korea, Rep.	KOR	6.8
+Kuwait	KWT	15.84
+Latin America & Caribbean (excluding high income)	LAC	8.956255812
+Lao PDR	LAO	4
+Lebanon	LBN	12.71
+Liberia	LBR	2.42
+Libya	LBY	10.43
+St. Lucia	LCA	11.62
+Latin America & Caribbean	LCN	8.722751287
+Least developed countries: UN classification	LDC	6.275067304
+Low income	LIC	5.400122796
+Liechtenstein	LIE	7.77
+Sri Lanka	LKA	10.68
+Lower middle income	LMC	8.710050297
+Low & middle income	LMY	8.659333009
+Lesotho	LSO	3.94
+Late-demographic dividend	LTE	9.003640266
+Lithuania	LTU	3.67
+Luxembourg	LUX	4.42
+Latvia	LVA	4.91
+Macao SAR, China	MAC	
+St. Martin (French part)	MAF	
+Morocco	MAR	7.14
+Monaco	MCO	5.46
+Moldova	MDA	5.72
+Madagascar	MDG	3.94
+Maldives	MDV	9.19
+Middle East & North Africa	MEA	11.42826239
+Mexico	MEX	13.06
+Marshall Islands	MHL	30.53
+Middle income	MIC	8.995414525
+Macedonia, FYR	MKD	10.08
+Mali	MLI	2.42
+Malta	MLT	8.83
+Myanmar	MMR	4.61
+Middle East & North Africa (excluding high income)	MNA	10.63120971
+Montenegro	MNE	10.08
+Mongolia	MNG	4.82
+Northern Mariana Islands	MNP	
+Mozambique	MOZ	3.3
+Mauritania	MRT	2.42
+Mauritius	MUS	22.02
+Malawi	MWI	3.94
+Malaysia	MYS	16.74
+North America	NAC	10.43256066
+Namibia	NAM	3.94
+New Caledonia	NCL	23.36
+Niger	NER	2.42
+Nigeria	NGA	2.42
+Nicaragua	NIC	11.47
+Netherlands	NLD	5.29
+Norway	NOR	5.31
+Nepal	NPL	7.26
+Nauru	NRU	24.07
+New Zealand	NZL	8.08
+OECD members	OED	8.207270673
+Oman	OMN	12.61
+Other small states	OSS	8.309746004
+Pakistan	PAK	8.35
+Panama	PAN	8.33
+Peru	PER	5.95
+Philippines	PHL	7.07
+Palau	PLW	15.89
+Papua New Guinea	PNG	17.65
+Poland	POL	5.91
+Pre-demographic dividend	PRE	4.872167869
+Puerto Rico	PRI	12.9
+Korea, Dem. People’s Rep.	PRK	4
+Portugal	PRT	9.85
+Paraguay	PRY	8.27
+West Bank and Gaza	PSE	10.59
+Pacific island small states	PSS	15.12670822
+Post-demographic dividend	PST	7.505684008
+French Polynesia	PYF	22.63
+Qatar	QAT	16.52
+Romania	ROU	9.74
+Russian Federation	RUS	6.18
+Rwanda	RWA	4.28
+South Asia	SAS	9.937835043
+Saudi Arabia	SAU	17.72
+Sudan	SDN	15.67
+Senegal	SEN	2.42
+Singapore	SGP	10.99
+Solomon Islands	SLB	18.68
+Sierra Leone	SLE	2.42
+El Salvador	SLV	8.87
+San Marino	SMR	5.64
+Somalia	SOM	6.05
+Serbia	SRB	10.08
+Sub-Saharan Africa (excluding high income)	SSA	4.847184939
+South Sudan	SSD	10.43
+Sub-Saharan Africa	SSF	4.84788374
+Small states	SST	9.367269907
+Sao Tome and Principe	STP	2.42
+Suriname	SUR	12.54
+Slovak Republic	SVK	7.29
+Slovenia	SVN	7.25
+Sweden	SWE	4.79
+Eswatini	SWZ	3.94
+Sint Maarten (Dutch part)	SXM	
+Seychelles	SYC	10.55
+Syrian Arab Republic	SYR	8.23
+Turks and Caicos Islands	TCA	
+Chad	TCD	6.1
+East Asia & Pacific (IDA & IBRD countries)	TEA	8.901650928
+Europe & Central Asia (IDA & IBRD countries)	TEC	7.705083972
+Togo	TGO	6.15
+Thailand	THA	7.04
+Tajikistan	TJK	7.11
+Turkmenistan	TKM	7.11
+Latin America & the Caribbean (IDA & IBRD countries)	TLA	8.700367728
+Timor-Leste	TLS	6.86
+Middle East & North Africa (IDA & IBRD countries)	TMN	10.63166132
+Tonga	TON	15.42
+South Asia (IDA & IBRD)	TSA	9.937835043
+Sub-Saharan Africa (IDA & IBRD countries)	TSS	4.84788374
+Trinidad and Tobago	TTO	10.97
+Tunisia	TUN	8.52
+Turkey	TUR	12.13
+Tuvalu	TUV	27.25
+Tanzania	TZA	5.75
+Uganda	UGA	2.5
+Ukraine	UKR	7.11
+Upper middle income	UMC	9.283963921
+Uruguay	URY	6.93
+United States	USA	10.79
+Uzbekistan	UZB	7.57
+St. Vincent and the Grenadines	VCT	11.62
+Venezuela, RB	VEN	6.47
+British Virgin Islands	VGB	13.67
+Virgin Islands (U.S.)	VIR	12.26
+Vietnam	VNM	6
+Vanuatu	VUT	12.02
+World	WLD	8.509629683
+Samoa	WSM	9.21
+Kosovo	XKX	
+Yemen, Rep.	YEM	5.35
+South Africa	ZAF	5.52
+Zambia	ZMB	3.94
+Zimbabwe	ZWE	1.82
