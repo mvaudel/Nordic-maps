@@ -9,6 +9,7 @@ Population density as of 2015 was obtained from the [Global Human Settlement pro
 Finally, the name along with the number of inhabitants was annotated for each country and associated territory. The number of inhabitants was the latest available in Wikipedia at time of writing.
 
 ![](https://github.com/mvaudel/Nordic-maps/blob/master/docs/population.png)
+
 _svg available [here](https://github.com/mvaudel/Nordic-maps/blob/master/docs/population.svg)._
 
 ## Language and cities map
@@ -16,6 +17,7 @@ _svg available [here](https://github.com/mvaudel/Nordic-maps/blob/master/docs/po
 This map was generated using this [script](https://github.com/mvaudel/Nordic-maps/blob/master/R/nordic-map-mollweide.R). In short, the world map using the Mollweide projection is plotted in light yellow over a light blue background as in the population map. The Nordic countries and associated territories were colored according to the official language. The Sami language was annotated with horizontal segments. Capitals and major cities were annotated with points and names using their latitude and longitude as obtained from [latlong.net](https://www.latlong.net/). North Germanic languages were annotated using a gradient of blue, Finno-Ugric languages using a red to yellow gradient, and Inuit as part of Eskimo-Aleut languages in green.
 
 ![](https://github.com/mvaudel/Nordic-maps/blob/master/docs/language_cities.png)
+
 _svg available [here](https://github.com/mvaudel/Nordic-maps/blob/master/docs/language_cities.svg)._
 
 ## Health data
@@ -44,7 +46,7 @@ These plots were generated using this [script](https://github.com/mvaudel/Nordic
 
 **Overweight (Income Group)**
 
-![](https://github.com/mvaudel/Nordic-maps/blob/master/docs/health/overweight_ncd_income.png)
+![](https://github.com/mvaudel/Nordic-maps/blob/master/docs/health/overweight_income.png)
 
 **Population (Continent)**
 
@@ -52,7 +54,7 @@ These plots were generated using this [script](https://github.com/mvaudel/Nordic
 
 **Population (Income Group)**
 
-![](https://github.com/mvaudel/Nordic-maps/blob/master/docs/health/population_ncd_income.png)
+![](https://github.com/mvaudel/Nordic-maps/blob/master/docs/health/population_income.png)
 
 ## Dependencies
 
