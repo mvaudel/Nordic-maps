@@ -1,6 +1,6 @@
 # Nordic Maps
 
-This repository contains code and resources used to generate figures on the Norgdic region including the maps displayed in Njølstad _et al._, _Roadmap for A Precision Medicine Initiative in the Nordic Region_.
+This repository contains code and resources used to generate figures on the Norgdic region including the maps displayed in [Njølstad _et al._, _Roadmap for A Precision Medicine Initiative in the Nordic Region_](https://www.nature.com/articles/s41588-019-0391-1).
 
 ## Population map
 
